@@ -1,0 +1,24 @@
+.img1{
+    max-width: 400px;
+    max-height: 400px;
+}
+.section{
+    height: 100vh;
+}
+.img2{
+    max-width: 300px;
+    max-height: 300px;
+    border-radius: 50%;
+}
+img:hover{
+    opacity: 70%;
+}
+i{
+    font-size:40px;
+}
+i:hover{
+    opacity: 50%;
+}
+.iSmall{
+    font-size: 20px;
+}
